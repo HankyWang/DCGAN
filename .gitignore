@@ -1,0 +1,6 @@
+
+data/.DS_Store
+.DS_Store
+data/mnist/t10k-images-idx3-ubyte
+logs/events.out.tfevents.1512403902.Hanks-MacBook-Pro.local
+*.local
